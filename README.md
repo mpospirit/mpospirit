@@ -1,4 +1,5 @@
-Mathematics Engineering student from Istanbul Technical University. Interested in artificial intelligence and it's applications.  
+Mathematics Engineering senior year student from Istanbul Technical University. Interested in artificial intelligence.  
+Currently working on graduation thesis **Mathematical Artificial Intelligence**, a research paper about mathematical topics that are used in AI and its applications. (topics like algebra, calculus, probability, statistics, optimization theory, and so on.)
 
 
 <!---
