@@ -1,5 +1,5 @@
-Data scientist.
-Visit [**website**](https://mpospirit.github.io) for more info.
+Data scientist. Mathematics engineering graduate. <br>
+Visit my [**website**](https://mpospirit.github.io) for more info.
 
 
 <!---
