@@ -1,5 +1,5 @@
 ## 📊 Data Scientist
-I currently work as a Data Scientist at [PwC](https://www.pwc.com)
+I currently work as a Data Analyst at [PwC](https://www.pwc.com)
 ## 🎓 ITU | [Mathematics Engineering](https://matmuh.itu.edu.tr/en)
 Check out my graduation thesis: [Mathematical Artificial Intelligence](https://mpospirit.github.io/thesis.html)
 
