@@ -1,4 +1,4 @@
-# [www.cagrigokpunar.xyz](https://www.cagrigokpunar.xyz)
+# [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="pandas" /></a>
