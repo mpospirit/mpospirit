@@ -1,4 +1,21 @@
 # [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
+
+### Tech Stack
+
+| Domain | Preferred | Can handle |
+|---:|---|---|
+| Machine Learning | scikit-learn, Tensorflow, Keras | PyTorch |
+| Data Manipulation and Analysis | pandas, polars, plotly | seaborn, cufflinks, Alteryx |
+| Database Management | SQL | MongoDB, DynamoDB |
+| Data Visualization | PowerBI, QuickSight | Tableau, Looker |
+| Backend Development | Django, Streamlit | Flask |
+| Frontend Development | Vanilla JS | - |
+| Cloud | AWS | Azure, DigitalOcean |
+| Operations Research | - | Pyomo, Ortools, PuLP, SCIP |
+| Mobile Development | - | Flutter, Swift |
+| Operating System | MacOS | Windows, Linux |
+
+<!---
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="pandas" /></a>
@@ -32,7 +49,6 @@
     <br>
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 </p>
-<!---
 mpospirit/mpospirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
