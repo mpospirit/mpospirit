@@ -12,6 +12,7 @@
 | Frontend Development | Vanilla JS | - |
 | Cloud | AWS | Azure, DigitalOcean |
 | Operations Research | - | Pyomo, Ortools, PuLP, SCIP |
+| UI/UX | Adobe XD | Figma |
 | Mobile Development | - | Flutter, Swift |
 | Operating System | MacOS | Windows, Linux |
 
