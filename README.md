@@ -1,21 +1,24 @@
+<img src="https://www.cagrigokpunar.com/static/img/favicon.png" alt="My logo" width="35%" align="right"/>
+
 # [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
 
-### Tech Stack
+I'm a full-stack analyst and developer
+who loves cooking up different business ideas.
+The predictive magic of statistics always keeps me hooked.
 
-| Domain | Preferred | Can handle |
-|---:|---|---|
-| Machine Learning | scikit-learn, Tensorflow, Keras | PyTorch |
-| Data Manipulation and Analysis | pandas, polars, plotly | seaborn, cufflinks, Alteryx |
-| Database Management | SQL | MongoDB, DynamoDB |
-| Data Visualization | PowerBI, QuickSight | Tableau, Looker |
-| Backend Development | Django, Streamlit | Flask |
-| Frontend Development | Vanilla JS | - |
-| Cloud | AWS | Azure, DigitalOcean |
-| Operations Research | - | Pyomo, Ortools, PuLP, SCIP |
-| UI/UX | Adobe XD | Figma |
-| Mobile Development | - | Flutter, Swift |
-| Operating System | MacOS | Windows, Linux |
+Beyond the tech world, I enjoy playing with
+colors and sounds, focusing on creating portraits and dark melodies.
 
+My interests are all over the place
+—philosophy, history, strategic thinking, linguistics, evolution, and psychology—
+and I'm constantly diving into books about them.
+
+When I'm not immersed in ideas,
+you can find me skating, swimming, or just moving around.
+
+- [My tech stack](https://www.cagrigokpunar.com/tech-stack/)
+- [Fun stuff I made](https://www.cagrigokpunar.com/playground/)
+- [My blog](https://www.cagrigokpunar.com/blog/)
 <!---
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
