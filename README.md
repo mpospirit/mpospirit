@@ -1,24 +1,8 @@
 <img src="https://www.cagrigokpunar.com/static/img/favicon.png" alt="My logo" width="35%" align="right"/>
 
-# [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
+# Çağrı "mpospirit" Gökpunar
 
-I'm a full-stack analyst and developer
-who loves cooking up different business ideas.
-The predictive magic of statistics always keeps me hooked.
-
-Beyond the tech world, I enjoy playing with
-colors and sounds, focusing on creating portraits and dark melodies.
-
-My interests are all over the place
-—philosophy, history, strategic thinking, linguistics, evolution, and psychology—
-and I'm constantly diving into books about them.
-
-When I'm not immersed in ideas,
-you can find me skating, swimming, or just moving around.
-
-- [My tech stack](https://www.cagrigokpunar.com/tech-stack/)
-- [Fun stuff I made](https://www.cagrigokpunar.com/playground/)
-- [My blog](https://www.cagrigokpunar.com/blog/)
+Visit my website to learn more about me: [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
 <!---
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
