@@ -1,4 +1,4 @@
-<img src="https://www.cagrigokpunar.com/static/img/favicon.png" alt="My logo" width="35%" align="right"/>
+<img src="https://cagrigokpunar.com/static/media/icon.dff1b93aae8ace22aeb4.png" alt="My logo" width="35%" align="right"/>
 
 # Çağrı "mpospirit" Gökpunar
 
